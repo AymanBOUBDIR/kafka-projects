@@ -82,4 +82,4 @@ docker exec -i kafka kafka-console-consumer.sh
 
 
 👨‍💻 Auteur
-Créé avec ☕ + 💡 par Ayman BOUBDIR
+Créé 💡 par Ayman BOUBDIR
